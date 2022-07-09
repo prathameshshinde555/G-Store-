@@ -42,4 +42,8 @@ If you have any feedback, please reach out to us at prathameshshinde5149@gmail.c
 ## Gr8 LOGO
 ![Logo](https://prathameshshinde555.github.io/Prathamesh-Shinde/logo_white.png)
 
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> af53f3664371317166517cec247429e709f4e2e8
